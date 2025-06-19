@@ -1,0 +1,55 @@
+header h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(121, 157, 225);
+    text-align: center;
+    padding: 10px;
+}
+main {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+   
+}
+section {
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px black;
+    background-color: white;
+
+}
+body {
+    background-color: rgb(214,211, 211);
+    margin: 20px;
+}
+img {
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+table {
+    width: 100%;
+     border-collapse: collapse;
+     margin-top: 20px;
+    
+}
+td,th {
+    border: 1px solid black;
+   padding: 8px;
+   text-align: center;
+   
+}
+input[type="email"],input[type="date"],input[type="text"],input[type="link"],input[type="submit"] {
+    width: 100%;
+    padding: 5px;
+}
+input[type="description"]
+ {
+    padding: 80px;
+    width: 100%;
+ }
+ input[type="submit"] { 
+    background-color: rgb(54, 121, 54);
+    font-size: medium;
+    font-weight: bolder;
+    color: white;
+ }
+ 
